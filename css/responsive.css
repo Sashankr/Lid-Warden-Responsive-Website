@@ -1,0 +1,789 @@
+@media screen and (max-width: 320px)
+{
+	.member_image {
+    left: 60.9%;
+    bottom: 48%!important;
+    max-width: 48%;
+}
+}
+@media screen and (max-width: 1199px)
+{
+	.container
+	{
+		width: 980px;
+	}
+	
+
+	header, .navigation, .image1, .info, #form_content
+	{
+		max-width: 100%;
+	}
+	
+	.nav 
+	{
+    float: right;
+    padding-top: 24px;
+    width: 85%;
+	}
+
+	nav ul li a 
+	{
+    margin-right: 43px;
+	}
+
+	#navbutton 
+	{
+    padding: 12px 12px;
+	}
+
+	.social
+	{
+	top: -43px;
+    left: -110px;
+    max-width: 77%;
+	}
+
+	.image1overlay 
+	{
+    bottom: 85.5px;
+    left: 19.5%;
+    width: 80.5%;
+	}
+
+	#details aside 
+	{
+    width: 454px;
+	}
+
+	#details .aside_para 
+	{
+    margin-bottom: 0px;
+    line-height: 25px;
+	}
+
+	.member
+	{
+		height:324px;
+	}
+	.member_image 
+	{
+    left: 78.9%;
+    bottom: 126%;
+    max-width: 40%;
+	}
+
+	.member_image img
+	{
+		max-width: 100%;
+		max-height: 100%;
+	}
+
+
+	#form_content .heading 
+	{
+    padding: 100px 0px 0px 0px;
+	}
+
+	.form_right form #emai_label 
+	{
+    padding-left: 27%;
+	}
+
+	.form_right form #mobile
+	{
+		width:172px;
+	}
+
+	.form_right form #email 
+	{
+   	 width: 185px;
+   	 margin-left: 5%;
+	}
+
+	.form_right button
+	{
+		padding: 15px 141px;
+	}
+
+	.company_logo 
+	{
+     
+     background-image: none; 
+	 margin-bottom: 80px; 
+	
+	}
+
+	.company_logo .company7 
+	{
+    margin-left: 50px;
+	}
+
+	.testimonial_text 
+	{
+    
+    max-width: 89%;
+    height: 300px;
+    
+	}
+
+	.testimonial_text .testimonial_icons 
+	{
+    	width: 113%;    
+    	left: -23%;
+	}
+
+	.contact_details 
+	{
+    	padding-left: 0px;
+	}
+
+	.contact_newsletter 
+	{
+    	width: 46%;
+	}
+
+	footer .container .business_para 
+	{
+    display: inline-block;
+    margin-left: 0px;
+    
+	}
+
+	footer .container .copyright 
+	{
+		padding-left: 10px;
+	}
+}
+
+@media screen and (max-width: 979px)
+{
+	.container
+	{
+		width: 768px;
+	}
+
+	header, .navigation, .image1, .info, #form_content
+	{
+		max-width: 100%;
+	}
+
+	nav ul li a 
+	{
+    	margin-right: 15px;
+    	font-size: 14px;
+	}
+
+	#navbutton 
+	{
+    	padding: 7px 7px;
+	}
+
+	.image1overlay h1 
+	{
+    font-size: 35px;
+    padding: 6px 0px 0px 34px;
+	}
+
+	.social 
+	{
+    	top: -43px;
+    	left: -106px;
+    	max-width: 100%;
+	}
+
+	#details article 
+	{
+    width: 44%;   
+	}
+
+	#details aside 
+	{
+    width: 44%;
+	}
+
+	.member p 
+	{
+    	font-size: 15px;
+	}
+
+	.member 
+	{
+    	height: 266px;
+	}
+	.member button 
+	{
+    	padding: 15px 25px;
+    	margin-top: 12px;
+	}
+
+	.form_left form input[placeholder] 
+	{
+    	font-size: 13px;
+	}
+
+	.form_right form input, .form_left form input 
+	{
+		font-size: 13px;
+	}
+
+	.form_right form #emai_label 
+	{
+    	padding-left: 18%;
+	}
+
+	.form_right form #mobile 
+	{
+    	width: 130px;
+	}
+
+	.form_right form #email 
+	{
+    	width: 134px;
+    	margin-left: 4%;
+	}
+
+	.form_right ul li 
+	{
+    	font-size: 13px;
+	}
+
+	.form_right button 
+	{
+    	padding: 15px 90px;
+    	margin-top: 98px;
+	}
+
+	.company_logo
+	{
+		padding-left: 85px;
+	}
+	.company_logo .company6 
+	{
+    	margin-left: 82px;
+	}
+
+	.company_logo .company2 
+	{
+    	margin-left: 46px;   
+	}
+
+	.company_logo .company10 
+	{
+    	margin-left: 35%;   
+	}
+
+	.testimonial_text p 
+	{
+		font-size: 22px;
+	}
+
+	.testimonial_text .testimonial_icons 
+	{
+    	width: 113%;
+    	left: -23%;
+    	top: 10%;
+	}
+	.testimonial_text .testimonial_icons #testimonial_icon 
+	{
+    	left: 36%;
+    	top: 28%;
+    	width: 60%;
+	}
+
+	.testimonial_text .testimonial_icons p 
+	{
+		font-size: 20px;
+	}
+
+	.contact_details p 
+	{
+		font-size: 14px;
+	}
+
+	.contact_details .address, .contact_number 
+	{
+    width: 190px;
+	}
+
+	.contact_number p
+	{
+		width: 60%;
+	}
+
+	.contact_newsletter p 
+	{
+		font-size: 14px;
+	}
+
+	.contact_newsletter #newsletter_email[value] 
+	{
+    	font-size: 14px;
+    	padding: 16px 10px;
+    	margin-bottom: 64px;
+	}
+
+	.contact_newsletter form #newsletter_button 
+	{
+		padding: 16px 49px;
+		font-size: 14px;
+	}
+
+	footer .container .business_para 
+	{
+    	font-size: 14px;
+	}
+
+	footer .container .copyright 
+	{
+    	padding-left: 10px;
+    	font-size: 14px;
+	}
+
+	footer .container .copyright .footer_para 
+	{
+    	margin-right: 18px;
+	}
+}
+
+@media screen and (max-width: 767px)
+{
+	.container
+	{
+		width: 96%;
+	}
+
+	#top #top_content 
+	{
+    	font-size: 26px;
+    	padding: 15px 0px;
+     	float: none;
+	}
+
+	#top p 
+	{
+    	display: inline-block;
+    	padding-right: 41px;
+	}
+	#top p:last-child 
+	{
+    	padding-left: 0%;
+	}
+	.logo 
+	{
+    	padding: 23px 99px;
+	}
+	nav 
+	{
+    	float: none;
+    	padding: 20px 0px 20px 16px;
+    	text-align: center;
+	}
+
+	nav ul li 
+	{
+    	display: block; 
+    	margin-bottom: 10px;
+	}
+
+	nav ul li a 
+	{
+    	font-size: 20px;
+	}
+
+	#navbutton 
+	{
+    	padding: 10px;
+    	font-size: 25px;
+	}
+
+	.image1overlay 
+	{
+    	bottom: 84.5%;
+    	left: 16.5%;
+    	width: 83.5%;
+	}
+
+	.social p,
+	.information_content h2, 
+	#details article h1,
+	#form_content .heading h4,
+	.companies #company_info h2
+	{
+    	font-size: 22px;
+	}
+
+	.image1overlay h1 
+	{
+    	padding: 11px 0px 0px 34px;
+    	font-size: 20px;
+	}
+
+	.social 
+	{
+    	top: -4px;
+    	left: -6px;
+    	max-width: 100%;
+    	height: 82px;
+    	padding: 5px 0px 5px 5px;
+	}
+
+	.social p:first-child 
+	{
+    	margin: 0px;
+    	margin-left: 5px;
+	}
+
+	.social p:nth-child(5) 
+	{
+    	font-size: 20px;
+    	margin:0px;
+	}
+
+	.social p:first-child {
+     margin: 0px;
+    
+	}	
+
+	.social #twitter, #facebook, #linkedin 
+	{
+    	margin-right: 25px;
+	}
+
+	.social a #twitter
+	{
+		margin-left: 10px;
+	}
+
+	.image1overlay 
+	{
+    bottom: 51%;
+    left: 16%;
+    width: 83.5%;
+    z-index: 15;
+	}
+
+	.image1overlay h1 
+	{
+    	padding: 0px 0px 0px 34px;
+	}
+
+	.information_content h2 
+	{
+		margin-top: 20px;
+	}
+
+	.information_content .information_content_para 
+	{
+		font-size: 16px;
+	}
+
+	#details article {
+    width: auto;
+    max-width: 100%;
+	}
+
+	#details article h1
+	{
+		padding-left: 15px;
+	}
+
+	#details aside 
+	{
+		width: auto;
+		max-width: 100%;
+    	float: none;
+    	margin-bottom: 25px;
+	}
+
+	#details .aside_para 
+	{
+    	margin-bottom: 0px;
+    	line-height: 32px;
+    	font-size: 15px;
+	}
+	
+	.member 
+	{
+    	height: 245px;
+    	padding: 10px 0px;
+	}
+
+	.member_image 
+	{
+    	left: 60.9%;
+    	bottom: 31%;
+			max-width: 40%;
+			display: none;
+	}
+
+	.member button 
+	{
+    	padding: 8px 3px;
+    	margin-top: 28px;
+	}
+
+	#form_content .heading #form_content_para 
+	{
+		font-size: 15px;
+	}
+
+	.form_left 
+	{
+    	width: 100%; 
+    	float: none;
+	}
+
+	.form_right 
+	{
+    	width: 100%; 
+    	float: none;
+	}
+
+	.form_left aside input#branche
+	{
+		font-size: 11px;
+    	height: 62px;
+    	padding: 5px;
+	}
+
+	.form_left aside #branch_drop 
+	{
+    	bottom: 14%;
+	}
+
+	.form_right form #emai_label 
+	{
+    	padding-left: 8%;
+	}
+	.form_right form #mobile 
+	{
+    	width: 100px;
+	}
+
+	.form_right form #email 
+	{
+    	width: 114px;
+    	margin-left: 4%;
+	}
+
+	.form_right button 
+	{
+   		padding: 10px 66px;
+	}
+
+	.companies #company_info 
+	{
+    width: auto;
+    margin: 10px auto;
+	}
+
+	.companies #company_info p 
+	{
+    	font-size: 15px;
+
+	}
+
+	.company_logo 
+	{
+    	padding-left: 0px;
+	}
+
+	.company_logo .company1 
+	{
+		margin-left: 73px;
+		margin-bottom: 20px;
+	}
+
+	.company_logo .company2 
+	{
+		margin-left: 50px;
+		margin-bottom: 20px;
+	}
+
+	.company_logo .company3 
+	{
+		margin-left: 35px;
+		margin-bottom: 20px;
+	}
+
+	.company_logo .company4 
+	{
+		margin-left: 32px;
+		margin-bottom: 20px;
+	}
+
+	.company_logo .company7 
+	{
+		margin-left: 67px;
+		
+	}
+
+	.company_logo .company8 
+	{
+		margin-left: 49px;
+		
+	}
+
+	.company_logo .company9 
+	{
+		margin-left: 50px;
+		
+	}
+
+	.company_logo .company10 
+	{
+		margin-left: 20%;
+		margin-bottom: 20px;
+	}
+
+	.companies .container #carousel img 
+	{
+    	width: 18%;
+	}
+
+	.testimonial_text 
+	{
+    	max-width: 89%;
+    	max-height: 51%;
+	}
+
+	.testimonial_text #right_arrow
+	{
+    	font-size: 16px;
+    	top: 43%;
+	}
+
+	.testimonial_text #left_arrow
+	{
+    	font-size: 16px;
+    	top: 43%;
+	}
+
+	.testimonial_text p 
+	{
+    	font-size: 12px;
+    	padding: 0px;
+    	margin-bottom: 10px;
+	}
+
+	.testimonial_text #break_testimonial
+	{
+		display: none;
+	}
+
+	.testimonial_text .testimonial_icons
+	{
+    	width: 122%;
+    	left: -22%;
+    	top: -2%;
+	}
+
+	.testimonial_text .testimonial_icons p 
+	{
+    	font-size: 12px;
+	}
+
+	.testimonial_text .testimonial_icons #testimonial_icon 
+	{
+    	left: 37%;
+    	top: 28%;
+    	width: 63%;
+	}
+
+	#contact_info 
+	{
+    	position: relative;
+    	top: 32px;
+	}
+
+	
+
+	#contact_info .container img#contacts_margin
+	{
+		display: none;
+	}
+
+	.contact_details 
+	{
+	width: 100%;
+	float: none;	
+    padding-left: 0px;
+	}
+
+	.contact_newsletter 
+	{
+    	width: 100%;
+    	float: none;
+	}
+
+	.contact_newsletter #newsletter_email[value] 
+	{
+    	font-size: 14px;
+    	padding: 14px 0px;
+    	margin-bottom: 64px;
+	}
+	.contact_newsletter form #newsletter_button 
+	{
+    	padding: 16px 43px;
+    	font-size: 12px;
+	}
+
+	.social_icons #twitter_newsletter 
+	{
+    	padding-right: 25px;
+	}
+
+	.social_icons #facebook_newsletter 
+	{
+    	margin-right: 25px;
+	}
+
+	.social_icons #linkedin_newsletter 
+	{
+    	margin-bottom: 0px;
+	}
+
+	footer
+	{
+		padding:15px 0px;
+	}
+
+	footer .container .business_para 
+	{
+    	font-size: 14px;
+    	margin-bottom: 9px;
+    	margin-left: 0px;
+    	display: inline-block;
+	}
+
+	footer .container .copyright 
+	{
+    	padding-left: 0px;
+    	font-size: 13px;
+    	width: auto;
+    	display: block;
+    	float: none;
+	}
+
+	footer .container .copyright p:first-child 
+	{
+    	display: inline-block;
+    	padding-left: 1px;
+    	width: 99px;
+    	margin-right: 0px;
+	}
+	footer .container .copyright .footer_para 
+	{
+    	width: 73px;
+    	display: inline-block;
+    	margin-right: 0px;
+	}
+
+	footer .container .copyright #privacy, #sitemap 
+	{
+    	width: 50px;
+    	margin-right: 0px;	
+	}	
+
+
+}
